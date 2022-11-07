@@ -1,4 +1,7 @@
-### Hi there 👋
+### 👋 Hello!
+### 👯 Here you'll find little things that I like to work on outside of work.
+### 🔭 C++ has my highest interest but I also work on other stuff ;)
+### 🌱 Occasionally working on FiveM scripts
 
 <!--
 **0xSavageD/0xSavageD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
